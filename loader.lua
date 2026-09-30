@@ -18,7 +18,7 @@ local KeyAuthConfig = {
 }
 
 -- Link do painel protegido (panel.lua hospedado)
-local PANEL_URL = "https://SEU_LINK_SECRETO/panel.lua"
+local PANEL_URL = "https://raw.githubusercontent.com/thiago19car-commits/Script/main/panel.lua"
 
 -- =====================================================
 -- SALVAR KEY (opcional, pra auto-login)
